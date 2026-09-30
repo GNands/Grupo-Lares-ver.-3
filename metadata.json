@@ -1,0 +1,6 @@
+{
+  "name": "Grupo Lares | Producción Artística y Audiovisual",
+  "description": "Productora con raíz andina y estándar técnico alto. Wiñaypaq (producción artística y escénica) y Cinema Pro (producción audiovisual). De la idea al resultado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
